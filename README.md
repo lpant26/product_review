@@ -22,6 +22,11 @@ TF-IDF
 Machine Learning
 Project Structure
 Smart_Product_Review_Analyzer/
+
+## Project Structure
+
+```text
+Smart_Product_Review_Analyzer/
 │
 ├── main.py
 ├── dashboard.py
@@ -41,11 +46,13 @@ Smart_Product_Review_Analyzer/
 ├── sample_product_reviews.csv
 ├── requirements.txt
 └── README.md
+```
+
 How It Works
 
 The system follows a pipeline to analyze a product review:
 
-Product Review
+```Product Review
       ↓
 Text Preprocessing
       ↓
@@ -60,6 +67,7 @@ Review Scoring
 Recommendation Engine
       ↓
 Buy / Don't Buy
+```
 
 Example
 
