@@ -60,25 +60,7 @@ Review Scoring
 Recommendation Engine
       ↓
 Buy / Don't Buy
-Installation
 
-Clone the repository:
-
-git clone https://github.com/YOUR_USERNAME/Smart_Product_Review_Analyzer.git
-cd Smart_Product_Review_Analyzer
-
-Install the required dependencies:
-
-pip install -r requirements.txt
-Usage
-
-Run the main application:
-
-python main.py
-
-If using the dashboard:
-
-streamlit run dashboard.py
 Example
 
 Input Review:
